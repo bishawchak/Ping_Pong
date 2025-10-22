@@ -4,6 +4,10 @@ A simple **Pong game** built in **C++** using **Object-Oriented Programming (OOP
 
 ---
 
+## 🎥 Demo
+
+![Game Demo](demo_game.gif)
+
 ## 🕹️ Features
 
 - Classic Pong gameplay with **player vs CPU**.
